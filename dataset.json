@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Comprehensive dining data for the Sioux Falls (Metro), SD-MN metro region, encompassing Sioux Falls. Spans multiple municipalities within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Sioux Falls (Metro), SD-MN, US",
-  "export_job_id": "c642d513-48a3-4363-8970-eb6b1a300a61",
+  "export_job_id": "e266c4ef-1fd9-4e06-95c9-a20a8bf740e2",
   "github_org": "Beamstation-Datasets",
   "id_short": 952203,
   "location_name": "Sioux Falls, SD-MN",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-sioux-falls-metro-sd-mn-us-sample-952203",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/952203/beamstation_952203_restaurants-us-siouxfallssdmn_SAMPLE_DIST.csv",
-  "sample_pct": 9.84,
+  "sample_pct": 9.97,
   "sample_records": 63,
   "sample_sha256": "f130fe167c0db2119427e9eb95a6a15b46567fa4ff123370b41d3ab6b6f0940a",
   "sample_size_bytes": 242304,
-  "total_records": 640,
-  "updated_at": "2026-04-07T12:22:28.653858+00:00"
+  "total_records": 632,
+  "updated_at": "2026-04-14T12:14:58.700087+00:00"
 }
