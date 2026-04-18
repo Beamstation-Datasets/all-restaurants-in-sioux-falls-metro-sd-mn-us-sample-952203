@@ -9,9 +9,9 @@
 | Dataset ID | `952203` |
 | Location | Sioux Falls, SD-MN |
 | Category | Restaurants |
-| Full dataset size | 640 records |
-| Free sample size | 63 records (9.84%) |
-| Last export | 2026-04-07T12:22:28.653858+00:00 |
+| Full dataset size | 632 records |
+| Free sample size | 63 records (9.97%) |
+| Last export | 2026-04-14T12:14:58.700087+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-sioux-falls-metro-sd-mn-us-sample-952203/releases/download/sample-latest/beamstation_952203_restaurants-us-siouxfallssdmn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
