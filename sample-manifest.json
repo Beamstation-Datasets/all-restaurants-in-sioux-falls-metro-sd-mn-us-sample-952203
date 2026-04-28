@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0869146a-60f6-4763-9e36-3417228b0188",
+  "export_job_id": "7ee57014-bfe8-4504-8937-515bb5904a90",
   "id_short": 952203,
-  "published_at": "2026-04-21T20:00:31Z",
+  "published_at": "2026-04-28T19:34:14Z",
   "repo_name": "all-restaurants-in-sioux-falls-metro-sd-mn-us-sample-952203",
   "sample_asset_name": "beamstation_952203_restaurants-us-siouxfallssdmn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/952203/beamstation_952203_restaurants-us-siouxfallssdmn_SAMPLE_DIST.csv",
-  "sample_records": 17,
-  "sample_sha256": "db8c4dea862c630fbcd5d3a4a95ee7e58e1574bd24be02c8f88bc3ec2a5c4d20",
-  "sample_size_bytes": 76787,
-  "total_records": 177
+  "sample_records": 61,
+  "sample_sha256": "756c2294fd79847fcc2f36d6fdf79761bf185e9c9baaaca4c217e5a6a038cf97",
+  "sample_size_bytes": 216768,
+  "total_records": 612
 }
