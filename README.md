@@ -1,6 +1,6 @@
 # All Restaurants in Sioux Falls (Metro), SD-MN, US
 
-> Free BeamStation sample export with 61 rows and masked direct-contact fields.
+> Free BeamStation sample export with 64 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `952203` |
 | Location | Sioux Falls, SD-MN |
 | Category | Restaurants |
-| Full dataset size | 612 records |
-| Free sample size | 61 records (9.97%) |
-| Last export | 2026-04-28T13:59:21.773968+00:00 |
+| Full dataset size | 644 records |
+| Free sample size | 64 records (9.94%) |
+| Last export | 2026-05-06T02:26:32.436383+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-sioux-falls-metro-sd-mn-us-sample-952203/releases/download/sample-latest/beamstation_952203_restaurants-us-siouxfallssdmn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
